@@ -1,4 +1,4 @@
-# Python-Projects
+# Smart Reader for Visually Impaired People
 
 Having a proper and quality education is very important for all of us. So how can visually impaired people who cannot benefit from books, which are humanity's wealth of knowledge, have a good education?
 
